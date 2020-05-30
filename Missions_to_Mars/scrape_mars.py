@@ -1,6 +1,5 @@
 # Import necessary dependancies
 from splinter import Browser
-from splinter.exceptions import ElementDoesNotExist
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
